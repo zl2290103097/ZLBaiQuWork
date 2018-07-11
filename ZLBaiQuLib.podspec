@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/zl2290103097/ZLBaiQuLib.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/zl2290103097/ZLBaiQuWork.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
